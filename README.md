@@ -8,4 +8,4 @@
 python -m http.server 8000
 ```
 
-Відкрийте `http://localhost:8000/dist/`. Щоб проаналізувати інший чат, натисніть «Завантажити result.json» і виберіть JSON з Telegram Desktop export. Жодні повідомлення нікуди не відправляються.
+Відкрийте `http://localhost:8000/docs/`. Щоб проаналізувати інший чат, натисніть «Завантажити result.json» і виберіть JSON з Telegram Desktop export. Жодні повідомлення нікуди не відправляються.
